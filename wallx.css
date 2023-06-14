@@ -1,0 +1,26 @@
+.wallx-bg{
+    background-color: #8f48b8;
+}
+.wallx-bgx{
+    background-color: #764294;
+}
+.wallx-bgg{
+    background-color: #716dc4;
+}
+
+.wallx-typo{
+    color: #ffffff;
+}
+
+.wallx-headers{
+    font-weight: 300 !important;
+}
+
+.waitlist-header{
+    font-size: 5rem !important;
+    font-weight: 600 !important;
+}
+.waitlist-writeup{
+    font-size: 2rem !important;
+    font-weight: 400 !important;
+}

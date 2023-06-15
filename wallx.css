@@ -1,8 +1,8 @@
 .wallx-bg{
-    background-color: #8f48b8;
+    background-color: rgb(70, 64, 185);
 }
 .wallx-bgx{
-    background-color: #764294;
+    background-color: #716dc4;
 }
 .wallx-bgg{
     background-color: #716dc4;
@@ -10,6 +10,16 @@
 
 .wallx-typo{
     color: #ffffff;
+}
+
+.wallx-typos{
+    color: #cac6c6;
+}
+
+.footer{
+    display: flex;
+    justify-content: center;
+    text-align: center;
 }
 
 .wallx-headers{
